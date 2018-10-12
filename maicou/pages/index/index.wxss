@@ -1,0 +1,54 @@
+/**index.wxss**/
+.quan{width: 100%;}
+.bore_iner{width: 100%;}
+
+.fu_neri{position: absolute;left: 0;top: 0;width: 100%;height: 300rpx;}
+.fu_neri .h1{width: 100%;height: 60rpx;line-break: 60rpx;color: rgb(255, 255, 255);font-weight: bold;display: block;text-align: center;font-size: 48rpx;padding-top: 35rpx;}
+.fu_neri .p1{width: 100%;text-align: center;display: block;font-size: 32rpx;padding-top: 10rpx;color: #fff;}
+.img1{width: 30%;position: absolute;left: 40%;top: 160rpx;}
+.img2,.img3,.img4{position: absolute;width: 22%;}
+.img2{top:335rpx;left:7%;}
+.img3{top:375rpx;left:38%;}
+.img4{top:335rpx;right:7%;}
+
+.fu_tin{padding-top: 140rpx;}
+.fu_tin .p1{text-align: center;font-size: 48rpx;}
+.fu_tin .tin_n1{float: left;width: 49.5%;padding: 10rpx 0;font-size: 32rpx;margin-top: 30rpx;}
+.fu_tin .tin_n1 text{font-size: 48rpx;color: #86abef;font-weight: bold}
+.fu_tin .tin_n1 .tin_n2{width: 61%;margin: 0 auto;text-align: center;}
+
+.fu_tne{width: 90%;margin: 0 auto;padding-top: 20rpx;}
+.fu_tne input{border:1px solid #86abef;color: #aaa;border-radius: 10rpx;padding: 20rpx 30rpx;}
+
+.fu_tnu{background: #fc9bb8;color: #fff;width: 90%;margin: 0 auto;margin-top: 30rpx;height: 90rpx;line-height: 90rpx;border-radius: 10rpx;text-align: center}
+
+.fu_tni{width: 90%;margin: 0 auto;height: 100rpx;}
+.fu_tni .imi{width: 50rpx;float: left;padding-top:32rpx;}
+.fu_tni .texts{float: left;line-height: 100rpx;width: 88%;padding-left: 25rpx;}
+.fu_tni .img{width: 60rpx;height: 60rpx;border-radius: 50rpx;float: left;padding-top:22rpx;}
+.test{font-size: 30rpx;float: left;padding-left:25rpx;}
+
+.fu_nuv{width: 90%;margin: 0 auto;}
+.fu_nuv .h1{width: 100%;text-align: center;display: block;padding: 30rpx 0;font-weight: bold;font-size: 42rpx;}
+.fu_nuv .p1{font-size: 32rpx;}
+.shifen{padding-top: 30rpx;}
+.shifen .img{float: left;width: 22%;padding-right: 20rpx;}
+
+.fu_nui{width: 90%;height: 85rpx;line-height: 85rpx;background: #f0f0f0;margin: 0 auto;margin-top: 20rpx;padding-top: 10rpx;}
+.fu_nui .img{width: 80rpx;height: 80rpx;border-radius: 50rpx;overflow: hidden;margin-left: 15rpx;float: left;}
+.fu_nui .t1,.fu_nui .t2,.fu_nui .t3{float: left;font-size: 30rpx;padding-left: 18rpx;}
+.fu_nui .t2{color: #ccc;}
+.fu_nui .t3{float: right;padding-right: 26rpx;}
+
+.fu_nes{width: 90%;margin: 0 auto;margin-top: 20rpx;}
+.fu_nes .fu_ns{width: 33%;float: left;}
+.fu_nes .fu_ns .t1,.fu_nes .fu_ns .t2,.fu_nes .fu_ns .t3{width: 100%;text-align: center;font-size: 34rpx;display: block;}
+.fu_nes .fu_ns .t2,.fu_nes .fu_ns .t3{color: #86abef;}
+
+.dibu{margin-top: 50rpx;}
+.dibu .t1{width: 100%;text-align: center;display: block;font-size: 32rpx;color: #ccc;}
+.dibu .zaix_lx{width: 100%;text-align: center;display:flex;align-items: center;
+justify-content: center;margin-top: 40rpx;}
+.dibu .zaix_lx .img{width: 60rpx;height: 60rpx; vertical-align:middle;display:inline-block;}
+.dibu .zaix_lx .t2{font-size: 38rpx;color:#fda0bd;}
+.fu_tnu{margin: 30rpx auto;}
