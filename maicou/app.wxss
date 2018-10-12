@@ -1,0 +1,4 @@
+/**app.wxss**/
+image{width: 100%;display: block;}
+.clear{clear: both;}
+.index{width: 95%;margin: 0 auto;}

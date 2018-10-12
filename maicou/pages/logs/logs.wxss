@@ -1,0 +1,9 @@
+.butt{width: 100%;}
+.butt .t1{font-size: 32rpx;text-align: center;display: block;padding: 30rpx;}
+.bu_ai{position: relative;width: 90%;margin: 0 auto;border:1px solid #ccc;border-radius: 20rpx;box-shadow: #ccc 0px 0px 10px;overflow: hidden;}
+.bu_aim{width: 90%;position: absolute;left: 0;right: 0;margin: 0 auto;bottom: 40rpx;}
+.butt .t2{margin-top:20rpx;font-size: 32rpx;text-align: center;display: block;padding: 30rpx;color: #86abf1;}
+.fangs{font-size:30rpx;height:80rpx;line-height:80rpx;width:237rpx;text-align:center;margin: 0 auto;border: 0;}
+.fangs image{border: 0;}
+.wei{width: 80%;}
+.contactService{border-radius: 30rpx;padding: 0;}

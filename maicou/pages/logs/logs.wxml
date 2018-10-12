@@ -1,0 +1,22 @@
+<!--logs.wxml-->
+<view class="quan">
+  <view class='tou'><image src='../images/lon_a.jpg' mode="widthFix" ></image></view>
+  <view class='butt'>
+    <text class='t1'>如何关注“麦联筹”公众号？</text>
+    <view class='bu_ai'>
+      <image src='../images/lon_b.png' mode="widthFix" ></image>
+      <view class='bu_aim'>
+      <button open-type="contact" class='contactService' session-from="{{'https://https://mp.weixin.qq.com/debug/wxadoc/introduction/image/x11.png'}}" hover-class="none"><image src='../images/lkj3.png' mode="widthFix" ></image></button> 
+      </view>
+    </view>
+   
+    <view class='bu_ai' style='margin-top:50rpx;padding-bottom:30rpx;margin-bottom:30rpx;'>
+      <view class='fangs'><image src='../images/9.jpg' mode="widthFix" ></image></view>
+      <text class='t2'>微信搜索关注</text>
+      <view class='wei'><image src='../images/a1.jpg' mode="widthFix" ></image></view>
+      <view class='wei'><image src='../images/a2.jpg' mode="widthFix" ></image></view>
+      <view class='wei'><image src='../images/a3.jpg' mode="widthFix" ></image></view>
+      <view class='wei'><image src='../images/a4.jpg' mode="widthFix" ></image></view>
+    </view>
+  </view>
+</view>

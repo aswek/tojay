@@ -1,0 +1,86 @@
+<!--index.wxml-->
+<view class="quan">
+  <form bindsubmit='anues'>
+  <view class='bore_iner'>
+    <image src='../images/ger_guan_b.png' mode="widthFix"></image>
+  </view>
+  <view class='fu_neri'>
+    <text class='h1'>筹钱治病就用麦联筹</text>
+    <text class='p1'>麦联筹|安全有保障</text>
+    <view class='img1'><image src="../images/jies_ao.png" mode="widthFix" /></view>
+    <view class='img2'><image src="../images/zidao_1.png" mode="widthFix" /></view>
+    <view class='img3'><image src="../images/kuai_su.png" mode="widthFix" /></view>
+    <view class='img4'><image src="../images/souxu_1.png" mode="widthFix" /></view>
+  </view>
+  <view class='fu_tin'>
+    <view class='p1'>麦联筹已帮助</view>
+    <view class='tin_n1' style='border-right:1px solid rgba(0,0,0,0.3);'>
+      <view class='tin_n2'>
+        <text>63万多</text>个家庭已完成筹款
+      </view>
+    </view>
+    <view class='tin_n1'>
+      <view class='tin_n2'>
+        <text>72亿+</text>元已筹到的治病钱款
+      </view>
+    </view>
+    <view class='clear'></view>
+  </view>
+  <view class='fu_tne'>
+    <input type='number' placeholder='请输入您的手机号码' name='username'/>
+  </view>
+  <button class='fu_tnu' form-type='submit'>
+    立即登记求助
+  </button>
+  <view class='fu_tni'>
+    <view class='imi'><image src='../images/nan_sei.jpg' mode="widthFix" ></image></view>
+    <view class='texts'>
+      <view class='img'><image src='../images/wx_login.png' mode="widthFix"></image></view>
+      <view class='test'>想哥已完成筹款，累计金额260,200元</view>
+    </view>
+  </view>
+  <view class='fu_nuv'>
+    <text class='h1'>他们都在麦联筹获得了看病钱</text>
+    <text class='p1'>倪月志快快醒来！爸爸妈妈盼你早日康复回家！</text>
+    <view class='shifen'>
+      <view class='img'><image src='../images/stuig.jpg'  mode="widthFix"></image></view>
+      <view class='img'><image src='../images/stuigs.jpg' mode="widthFix"></image></view>
+      <view class='img' style='float:right;padding:0;'><image src='../images/stuigs.jpg'  mode="widthFix"></image></view>
+      <view class='img' style='float:right;'><image src='../images/stuig.jpg' mode="widthFix"></image></view>
+      <view class='clear'></view>
+    </view>
+  </view>
+  <view class='fu_nui'>
+    <view class='img'><image src='../images/stuig.jpg' mode="widthFix"></image></view>
+    <text class='t1'>刘婉烟</text>
+    <text class='t2'>发起</text>
+    <text class='t3'>15674853854</text>
+  </view>
+  <view class='fu_nes'>
+    <view class='fu_ns'>
+      <text class='t1'>目标金额</text>
+      <text class='t2'>200000</text>
+      <text class='t3'>元</text>
+    </view>
+    <view class='fu_ns'>
+      <text class='t1'>以筹金额</text>
+      <text class='t2'>163230</text>
+      <text class='t3'>元</text>
+    </view>
+    <view class='fu_ns'>
+      <text class='t1'>捐助人数</text>
+      <text class='t2'>789</text>
+      <text class='t3'>人</text>
+    </view>
+    <view class='clear'></view>
+  </view>
+  <view class='dibu'>
+    <text class='t1'>如有疑问,欢迎致电筹款顾问</text>
+    <view class='zaix_lx'>
+      <view class='img'><image src='../images/stui.jpg' mode="widthFix"></image></view>
+      <text class='t2'>客服热线400-008-7900</text>
+    </view>
+    <button class='fu_tnu' form-type='submit'>立即登记求助</button>
+  </view>
+  </form>
+</view>
